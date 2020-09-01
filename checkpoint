@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/tako/jupyter/mingu/mingu2/Git/ImageCaptioning/weights"
+all_model_checkpoint_paths: "/home/tako/jupyter/mingu/mingu2/Git/ImageCaptioning/weights_8"
+all_model_checkpoint_paths: "/home/tako/jupyter/mingu/mingu2/Git/ImageCaptioning/weights_9"
+all_model_checkpoint_paths: "/home/tako/jupyter/mingu/mingu2/Git/ImageCaptioning/weights_10"
+all_model_checkpoint_paths: "/home/tako/jupyter/mingu/mingu2/Git/ImageCaptioning/weights_11"
+all_model_checkpoint_paths: "/home/tako/jupyter/mingu/mingu2/Git/ImageCaptioning/weights"
